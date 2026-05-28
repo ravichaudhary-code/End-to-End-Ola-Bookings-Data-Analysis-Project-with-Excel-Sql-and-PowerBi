@@ -83,35 +83,35 @@ Built an interactive dashboard featuring:
 ### 1. Overall Booking Analysis
 Provides a high-level overview of total bookings, booking value, booking status breakdown, and ride volume trends over time.
 
-![Overall Dashboard](images/dashboard-overview.png)
+![Overall Dashboard]
 
 ---
 
 ### 2. Vehicle Type Performance Analysis
 Compares booking value, successful booking value, average distance travelled, and total distance by vehicle category.
 
-![Vehicle Type Analysis](images/vehicle-type.png)
+![Vehicle Type Analysis]
 
 ---
 
 ### 3. Revenue Analysis
 Analyzes revenue trends, payment methods, daily ride distance, and top customers.
 
-![Revenue Analysis](images/revenue-analysis.png)
+![Revenue Analysis]
 
 ---
 
 ### 4. Cancellation Analysis
 Provides insights into customer and driver cancellation reasons, succeeded bookings, and cancellation rates.
 
-![Cancellation Analysis](images/cancellation-analysis.png)
+![Cancellation Analysis]
 
 ---
 
 ### 5. Customer & Driver Ratings Analysis
 Displays vehicle-wise customer ratings and driver ratings to evaluate service performance.
 
-![Ratings Analysis](images/ratings-analysis.png)
+![Ratings Analysis]
 
 ---
 
